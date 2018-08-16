@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TurisApp</string>
+
+
+    <string name="la_fogata">El lugar es hermoso. La atención es excelente. El ambiente es calmado. La comida es  deliciosa, gran variedad de platos nacionales e internacionales. Amplia carta de vino. La carta de comida está disponible en inglés también. Los fines de semana hay música en vivo. Es un restaurante muy reconocido en la ciudad y debido a su categoría los precios son altos.</string>
+
+
+    <string name="camelias">El Hotel Campestre Las Camelias está ubicado estratégicamente en el municipio de Montenegro, en pleno corazón del Quindío, comunicado por excelentes vías intermunicipales y equidistantes de los demás municipios y sitios de interés de la región. A solo 20 minutos de la Ciudad de Armenia, a 20 minutos del Aeropuerto el Edén, a 35 minutos del Parque Nacional de la Cultura Agropecuaria PANACA y a solo 5 minutos del Parque Nacional del Café. Su arquitectura, diseño y la sobriedad de sus edificaciones contrastan acordemente con el maravilloso paraje eco turístico que matizado con los verdes de su entorno natural, sus coloridos jardines, sus amplias zonas de esparcimiento y confort, le dan al lugar la calidez y el ambiente para brindarle a sus visitantes una placentera estadía, la tranquilidad y el placer de disfrutar de un verdadero descanso</string>
+
+
+    <string name="descripcion">Esta es una aplicacion que te facilitara obtener la informacion turistica
+    del departamento de quindio.\n
+    En nuestra App podras encontrar toda la informacion necesaria sobre todos los sitios,hoteles y restaurantes de una manera
+        facil y sencilla.</string>
+
+    <string name="nevado">El Nevado del Quindío, también conocido como Paramillo del Quindío, es un volcán inactivo ubicado en la Cordillera Central de los Andes, en Colombia</string>
+    <string name="botanico">El Jardín botánico del Quindío es un centro de investigación científica y de educación ambiental, es el primer legalmente constituido en Colombia</string>
+    <string name="arrieros">El Jardín botánico del Quindío es un centro de investigación científica y de educación ambiental, es el primer legalmente constituido en Colombia</string>
+    <string name="cultura">El Parque Nacional de la Cultura Agropecuaria es un parque temático agropecuario ubicado en Quimbaya, Colombia, su principal filosofía es propiciar la interacitividad del hombre con la naturaleza y la zoología doméstica</string>
+    <string name="cocora">El Valle de Cocora es un paisaje natural localizado en un valle montañoso de la cordillera Central de los Andes colombianos, específicamente en el departamento del Quindío, haciendo parte del Parque nacional natural Los Nevados.</string>
+    <string name="cafe">El Parque nacional del Café es un parque temático colombiano situado en el corregimiento de Pueblo Tapao, del municipio de Montenegro en Quindío, Colombia.</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
